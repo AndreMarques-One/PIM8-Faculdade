@@ -22,3 +22,7 @@ C:\Users\mathe\Asp.NETMVCCRUD\Asp.NETMVCCRUD\obj\Debug\PIM-Trabalho.csprojAssemb
 C:\Users\mathe\Asp.NETMVCCRUD\Asp.NETMVCCRUD\obj\Debug\PIM-Trabalho.csproj.CopyComplete
 C:\Users\mathe\Asp.NETMVCCRUD\Asp.NETMVCCRUD\obj\Debug\Asp.NETMVCCRUD.dll
 C:\Users\mathe\Asp.NETMVCCRUD\Asp.NETMVCCRUD\obj\Debug\Asp.NETMVCCRUD.pdb
+C:\Users\BRENDA\Desktop\Raiz\GitHub\PIM8-Faculdade\Asp.NETMVCCRUD\obj\Debug\PIM-Trabalho.csprojAssemblyReference.cache
+C:\Users\BRENDA\Desktop\Raiz\GitHub\PIM8-Faculdade\Asp.NETMVCCRUD\obj\Debug\PIM-Trabalho.csproj.CoreCompileInputs.cache
+C:\Users\BRENDA\Desktop\Raiz\GitHub\PIM8-Faculdade\Asp.NETMVCCRUD\obj\Debug\Asp.NETMVCCRUD.dll
+C:\Users\BRENDA\Desktop\Raiz\GitHub\PIM8-Faculdade\Asp.NETMVCCRUD\obj\Debug\Asp.NETMVCCRUD.pdb

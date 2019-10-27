@@ -17,24 +17,24 @@ namespace Asp.NETMVCCRUD.service
             return dao.findALL();
         }
 
-        public void save(Atividade atividade)
+        public void save(int Id, string Nome, string Tipo)
         {
-            dao.save(atividade);   
+            AtividadeDAO.save();
         }
 
         public void update(Atividade atividade)
-        {
-            dao.update(atividade);
+        { 
+           AtividadeDAO.update();
         }
 
         public void delete(int id)
         {
-            dao.delete(id);
+            AtividadeDAO.delete(int id);
         }
 
         public Atividade find(int id)
         {
-           return  dao.find(id);
+           return  AtividadeDAO.find(id);
         }
 
         public List<AtividadeDTO> getListDTO() {

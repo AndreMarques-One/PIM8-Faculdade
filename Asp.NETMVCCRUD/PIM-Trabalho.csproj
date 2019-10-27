@@ -95,6 +95,7 @@
     <Reference Include="System.EnterpriseServices" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="AtividadeDBO.mdb" />
     <Content Include="Content\bootstrap-theme.css" />
     <Content Include="Content\bootstrap-theme.min.css" />
     <Content Include="Content\bootstrap.css" />
@@ -176,6 +177,8 @@
     <Compile Include="Controllers\AtividadeController.cs" />
     <Compile Include="Controllers\MenuController.cs" />
     <Compile Include="Controllers\PostagemController.cs" />
+    <Compile Include="dao\AtividadeDAO.cs" />
+    <Compile Include="dao\conexao\Conexao.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
